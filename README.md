@@ -4,9 +4,9 @@
 
 <p><h3 align="center">A passionate learner from India.</h3></p>
 
-<p align="justify"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Visitors&color=0e75b6&style=flat"/></p>
+<p align="justify"> <img src="https://komarev.com/ghpvc/?username=krgauravtwt&label=Visitors&color=0e75b6&style=flat"/></p>
 <p><img align="right" alt="coding" width="410" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="380"></p>
-<p align="justify"><a href="https://twitter.com/gauravkr_17" target="blank"><img src="https://img.shields.io/twitter/follow/gauravkr_17?logo=twitter&style=for-the-badge" alt="gauravkr_17"/></a></p>
+<p align="justify"><a href="https://twitter.com/gauravkr_17" target="blank"><img src="https://img.shields.io/twitter/follow/gauravkr_17?logo=twitter&style=for-the-badge" alt="krgauravtwt"/></a></p>
 
 
 - 🌱 I’m currently exploring **WebDev**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravkr_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravkr_17" height="30" width="40" /></a>
+<a href="https://twitter.com/krgauravtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krgauravtwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav kumar" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/_gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav029" height="30" width="40" /></a> -->
 <!-- <a href="https://hashnode.com/@gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gaurav029" height="30" width="40" /></a> -->
