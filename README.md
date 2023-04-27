@@ -6,7 +6,7 @@
 
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Visitors&color=0e75b6&style=flat"/></p>
 <p><img align="right" alt="coding" width="410" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="380"></p>
-<p align="justify"><a href="https://twitter.com/imgauravtwt" target="blank"><img src="https://img.shields.io/twitter/follow/imgauravtwt?logo=twitter&style=for-the-badge" alt="imgauravtwt"/></a></p>
+<p align="justify"><a href="https://twitter.com/gauravktwt" target="blank"><img src="https://img.shields.io/twitter/follow/gauravktwt?logo=twitter&style=for-the-badge" alt="gauravktwt"/></a></p>
 
 
 - 🌱 I’m currently exploring **WebDev**
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imgauravtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imgauravtwt" height="30" width="40" /></a>
+<a href="https://twitter.com/gauravktwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravktwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav kumar" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/_gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav029" height="30" width="40" /></a> -->
 <!-- <a href="https://hashnode.com/@gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gaurav029" height="30" width="40" /></a> -->
