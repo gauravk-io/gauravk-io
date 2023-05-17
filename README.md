@@ -31,6 +31,6 @@
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkr17" alt="gauravkr17" /></a></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravkr17&show_icons=true&locale=en&layout=compact" alt="gauravkr17" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkr17&show_icons=true&locale=en" alt="gauravkr17" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkr17&" alt="gauravkr17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-oi&show_icons=true&locale=en&layout=compact" alt="gaurav-oi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-oi&show_icons=true&locale=en" alt="gaurav-oi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-oi&" alt="gaurav-oi" /></p>
