@@ -82,17 +82,14 @@ Computer Science,Open Source,Clouds,Cyber Security
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?
 username=gauravk-io&theme=aura&show_icons=true&locale=en&layout=compact" alt="gauravk-io" /></p> -->
 
-[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura)]()
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky)](https://git.io/streak-stats)
+<!-- [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky)](https://git.io/streak-stats) -->
 
-<!-- <p style="display:flex; align=center; justify-content:center; ">
-
+<p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura" style="margin-right:4px;">
-
 <img src="https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky">
-
 </p>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauravk-io&theme=react-dark)](https://github.com/gauravk-io/github-readme-activity-graph) -->
+<!-- [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauravk-io&theme=react-dark)](https://github.com/gauravk-io/github-readme-activity-graph) -->
 
 
