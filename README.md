@@ -4,7 +4,7 @@
 
 # Hey, I'm **Gaurav** 👋
 
-- 📫 Reach me: **gauravkr7265@gmail.com**
+- ## 📫 Reach me: **gauravkr7265@gmail.com**
 
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gauravktwt)
