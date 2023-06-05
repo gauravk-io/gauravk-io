@@ -48,7 +48,7 @@ Computer Science,Open Source,Clouds,Cyber Security
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,js,python,java,html,css,git,github,vscode,linux,tailwind&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,js,python,java,html,css,git,github,vscode,linux,tailwind&perline=#" />
   </a>
 </p>
 
