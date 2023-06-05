@@ -18,7 +18,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+Enthusiast!)](https://git.io/typing-svg)
 
-### <p style="font-size:7px;">I'm currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
+### <p style="font-size:7px;">I'm a front-end developer and currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it.</p>
 
 ![border-seperator](assets/borderseparator.gif)
 
@@ -56,7 +56,7 @@ Computer Science,Open Source,Clouds,Cyber Security
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,js" />
   </a>
 </p>
 
