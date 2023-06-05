@@ -1,36 +1,97 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)
-
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-
-<p><h3 align="center">A passionate learner from India.</h3></p>
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Visitors&color=0e75b6&style=flat"/></p>
-<p><img align="right" alt="coding" width="410" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="380"></p>
-<p align="justify"><a href="https://twitter.com/gauravktwt" target="blank"><img src="https://img.shields.io/twitter/follow/gauravktwt?logo=twitter&style=for-the-badge" alt="gauravktwt"/></a></p>
+
+# Hey, I'm **Gaurav** 👋
+
+- 📫 Reach me: **gauravkr7265@gmail.com**
 
 
-- 🌱 I’m currently exploring **WebDev**
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gauravktwt)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
 
-<!-- - 💬 Ask me about **HTML, CSS, JAVASCRIPT** -->
 
-- 📫 Reach me **gauravkr7265@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gauravktwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravktwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav kumar" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/_gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav029" height="30" width="40" /></a> -->
-<!-- <a href="https://hashnode.com/@gaurav029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@gaurav029" height="30" width="40" /></a> -->
-<!-- <a href="https://www.codechef.com/users/gaurav02974" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav02974" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/gaurav02974" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaurav02974" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/gaurav-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav-kr" height="30" width="40" /></a>
+<!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
+![border-seperator](assets/borderseparator.gif) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+Enthusiast!)](https://git.io/typing-svg)
+
+### <p style="font-size:7px;">I'm currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it. I am naive to the world of computer science,though optimistic about its possibilities.</p>
+
+![border-seperator](assets/borderseparator.gif)
+
+## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
+
+
+### **✨ Hobbies**
+   Listening to Podcasts,Playing Chess,Playing Cricket
+
+<a href="https://cloud.appwrite.io/card/6451178859ca079bd2f8">
+	<img align="right" width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6451178859ca079bd2f8" alt="Appwrite Cloud Card" />
+</a>
+
+### **💖 Interests**
+Computer Science,Open Source,Clouds,Cyber Security
+
+
+### **📟 Projects**
+* Restaurant Website
+* Police vs Taxi Animated
+
+![bd](assets/borderseparator.gif)
+
+## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
+
+
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,python,java,html,css,git,github,vscode,linux,tailwind&perline=8" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> --> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  -->
+![]()
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p></div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp" />
+  </a>
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkr17" alt="gauravkr17" /></a></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-oi&show_icons=true&locale=en&layout=compact" alt="gaurav-oi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-oi&show_icons=true&locale=en" alt="gaurav-oi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-oi&" alt="gaurav-oi" /></p>
+![]()
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p></div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,electron,kubernetes,graphql,swift,solidity,ruby,rust,nextjs,dart,aws&perline=10" />
+  </a>
+</p>
+
+![]()
+
+![border](assets/borderseparator.gif)
+
+![]()
+
+## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
+
+![]()
+
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?
+username=gauravk-io&theme=aura&show_icons=true&locale=en&layout=compact" alt="gauravk-io" /></p> -->
+
+[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky)](https://git.io/streak-stats)
+
+<!-- <p style="display:flex; align=center; justify-content:center; ">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura" style="margin-right:4px;">
+
+<img src="https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky">
+
+</p>
+
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauravk-io&theme=react-dark)](https://github.com/gauravk-io/github-readme-activity-graph) -->
+
+
