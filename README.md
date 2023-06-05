@@ -53,7 +53,7 @@ Computer Science,Open Source,Clouds,Cyber Security
 </p>
 
 ![]()
-### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Learning**</p></p></div>
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Exploring**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,js" />
@@ -61,7 +61,7 @@ Computer Science,Open Source,Clouds,Cyber Security
 </p>
 
 ![]()
-### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Learn**</p></p></div>
+### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Explore**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,electron,kubernetes,graphql,swift,solidity,ruby,rust,nextjs,dart,aws&perline=10" />
