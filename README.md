@@ -25,12 +25,13 @@
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
 
 
-### **✨ Hobbies**
-   Listening to Podcasts,Playing Chess,Playing Cricket
-
 <a href="https://cloud.appwrite.io/card/6451178859ca079bd2f8">
 	<img align="right" width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6451178859ca079bd2f8" alt="Appwrite Cloud Card" />
 </a>
+
+### **✨ Hobbies**
+   Listening to Podcasts,Playing Chess,Playing Cricket
+
 
 ### **💖 Interests**
 Computer Science,Open Source,Clouds,Cyber Security
