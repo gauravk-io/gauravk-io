@@ -4,12 +4,13 @@
 
 # Hey, I'm **Gaurav** 👋
 
-- ## 📫 Reach me: **gauravkr7265@gmail.com**
+- ### 📫 Reach me: **gauravkr7265@gmail.com**
 
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gauravktwt)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214)
+
 
 
 
@@ -22,19 +23,19 @@
 
 ![border-seperator](assets/borderseparator.gif)
 
-## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div>
+<!-- ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**About Me**</p></div> -->
 
 
-<a href="https://cloud.appwrite.io/card/6451178859ca079bd2f8">
+<!-- <a href="https://cloud.appwrite.io/card/6451178859ca079bd2f8">
 	<img align="right" width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6451178859ca079bd2f8" alt="Appwrite Cloud Card" />
-</a>
+</a> -->
 
-### **✨ Hobbies**
+<!-- ### **✨ Hobbies**
    Listening to Podcasts,Playing Chess,Playing Cricket
 
 
 ### **💖 Interests**
-Computer Science,Open Source,Clouds,Cyber Security
+Computer Science,Open Source,Clouds,Cyber Security -->
 
 
 ### **📟 Projects**
@@ -43,7 +44,7 @@ Computer Science,Open Source,Clouds,Cyber Security
 
 ![bd](assets/borderseparator.gif)
 
-## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
+<!-- ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
 
 
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
@@ -77,7 +78,7 @@ Computer Science,Open Source,Clouds,Cyber Security
 
 ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
 
-![]()
+![]() -->
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?
 username=gauravk-io&theme=aura&show_icons=true&locale=en&layout=compact" alt="gauravk-io" /></p> -->
