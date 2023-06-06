@@ -6,7 +6,7 @@
 
 ## <p align="center">A Tech Enthusiast.</p>
 
-### <p style="font-size:7px;">I'm a front-end developer and currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it.</p>
+### <p style="font-size:7px;" align="justify">I'm a front-end developer and currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it.</p>
 
 <!-- ![border-seperator](assets/borderseparator.gif) -->
 
