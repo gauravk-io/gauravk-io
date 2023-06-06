@@ -1,18 +1,6 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Visitors&color=0e75b6&style=flat"/></p>
 
 # Hey, I'm **Gaurav** 👋
-
-- ### 📫 Reach me: **gauravkr7265@gmail.com**
-
-
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gauravktwt)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214)
-
-
-
 
 <!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
 ![border-seperator](assets/borderseparator.gif) -->
@@ -20,6 +8,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+Enthusiast!)](https://git.io/typing-svg)
 
 ### <p style="font-size:7px;">I'm a front-end developer and currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it.</p>
+
+![border-seperator](assets/borderseparator.gif)
+
+- ### 📫 Reach me: **gauravkr7265@gmail.com**
+
+
+![border-seperator](assets/borderseparator.gif)
+
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gauravktwt)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214)
 
 ![border-seperator](assets/borderseparator.gif)
 
