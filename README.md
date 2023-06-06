@@ -1,20 +1,18 @@
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=gauravkr17&label=Visitors&color=0e75b6&style=flat"/></p>
 
-# Hey, I'm **Gaurav** 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=2AE8F7&left=true&vCenter=true&width=900&height=80&lines=Welcome+To+Gaurav's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<!-- ### **Welcome to My Page!** <img src="assets/flame.gif" style="position: relative;top:2.4px;" width="12" height="22">
-![border-seperator](assets/borderseparator.gif) -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+Enthusiast!)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+Enthusiast!)](https://git.io/typing-svg)
+## <p align="center">A Tech Enthusiast.</p>
 
 ### <p style="font-size:7px;">I'm a front-end developer and currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it.</p>
 
-![border-seperator](assets/borderseparator.gif)
+<!-- ![border-seperator](assets/borderseparator.gif) -->
 
 - ### 📫 Reach me: **gauravkr7265@gmail.com**
 
-
-![border-seperator](assets/borderseparator.gif)
+<!-- ![border-seperator](assets/borderseparator.gif) -->
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gauravktwt)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
@@ -46,6 +44,8 @@ Computer Science,Open Source,Clouds,Cyber Security -->
 <!-- ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
 
 
+
+
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +53,9 @@ Computer Science,Open Source,Clouds,Cyber Security -->
   </a>
 </p>
 
-![]()
+
+
+
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Currently Exploring**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -61,29 +63,18 @@ Computer Science,Open Source,Clouds,Cyber Security -->
   </a>
 </p>
 
-![]()
+
+
+
 ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:22px;">**Planning to Explore**</p></p></div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=svelte,vue,blender,firebase,flutter,php,mysql,django,flask,mongodb,electron,kubernetes,graphql,swift,solidity,ruby,rust,nextjs,dart,aws&perline=10" />
   </a>
-</p>
+</p>	-->
 
-![]()
 
-![border](assets/borderseparator.gif)
 
-![]()
-
-## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px">**Github Stats**</p></div>
-
-![]() -->
-
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?
-username=gauravk-io&theme=aura&show_icons=true&locale=en&layout=compact" alt="gauravk-io" /></p> -->
-
-<!-- [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura)]()
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky)](https://git.io/streak-stats) -->
 
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura" style="margin-right:4px;">
