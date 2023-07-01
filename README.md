@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=2AE8F7&left=true&vCenter=true&width=900&height=80&lines=Welcome+To+Gaurav's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=2AE8F7&center=true&vCenter=true&width=900&height=80&lines=A+Tech+Enthusiast!)](https://git.io/typing-svg) -->
-
 # <p align="center">A Tech Enthusiast.</p>
 
 ### <p style="font-size:7px;" align="justify">I'm a front-end developer and currently exploring the world of technology and open source.I like solving problems that interest me and let me dive deep into the essence of it.</p>
@@ -27,13 +25,6 @@
 	<img align="right" width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=6451178859ca079bd2f8" alt="Appwrite Cloud Card" />
 </a> -->
 
-<!-- ### **✨ Hobbies**
-   Listening to Podcasts,Playing Chess,Playing Cricket
-
-
-### **💖 Interests**
-Computer Science,Open Source,Clouds,Cyber Security -->
-
 
 ### **📟 Projects**
 * Restaurant Website
@@ -42,7 +33,6 @@ Computer Science,Open Source,Clouds,Cyber Security -->
 ![bd](assets/borderseparator.gif)
 
 <!-- ## <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
-
 
 
 
@@ -74,13 +64,10 @@ Computer Science,Open Source,Clouds,Cyber Security -->
 </p>	-->
 
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact)](https://github.com/gauravk-io/github-readme-stats)
 
 
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=gauravk-io&theme=aura" style="margin-right:4px;">
 <img src="https://streak-stats.demolab.com/?user=gauravk-io&theme=dark-smoky">
 </p>
-
-<!-- [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gauravk-io&theme=react-dark)](https://github.com/gauravk-io/github-readme-activity-graph) -->
-
-
