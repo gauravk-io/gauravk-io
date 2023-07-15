@@ -71,8 +71,8 @@
 <!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact)](https://github.com/gauravk-io/github-readme-stats) -->
 
 
-[![Gaurav's readme stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true)](https://github.com/gauravk-io/github-readme-stats)
-
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura">
+
+[![Gaurav's readme stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true)](https://github.com/gauravk-io/github-readme-stats)
 </p>
