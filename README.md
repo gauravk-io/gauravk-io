@@ -27,8 +27,12 @@
 
 
 ### **📟 Projects**
+* YouTube Clone
+* Animated Login page
+* Gym Contact Page
 * Restaurant Website
-* Police vs Taxi Animated
+* Animated Car Race
+* Rock-Paper-Scissor-Game
 
 ![bd](assets/borderseparator.gif)
 
