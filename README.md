@@ -27,8 +27,8 @@
 
 
 ### **📟 Projects**
-* Restaurant Website
-* Police vs Taxi Animated
+<!--* Restaurant Website
+* Police vs Taxi Animated -->
 
 ![bd](assets/borderseparator.gif)
 
