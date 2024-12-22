@@ -9,6 +9,8 @@
 
 <!-- Email -->
 ### 📫 Reach me: **gauravkr7265@gmail.com**
+### **Click Here -** [My Linktree](https://linktr.ee/kgaurav4u)
+
 
 <!-- ![border-seperator](assets/borderseparator.gif) -->
 
@@ -29,25 +31,18 @@
 
 
 <!-- social media handels -->
-## **Social Handels :**
-<!-- Not in center -->
-<!-- [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kgaurav4_js)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214) -->
-
+<!-- ## **Social Handels :**
 <p align="left">
   <a href="https://twitter.com/kgaurav4_js">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
-
   <a href="https://www.linkedin.com/in/gaurav-kumar-a09a5925a">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
-
   <a href="https://discord.com/users/kgaurav4u">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
-</p>
+</p> -->
 
 
 <!-- github readme stats -->
