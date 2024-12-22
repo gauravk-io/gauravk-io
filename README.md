@@ -13,15 +13,15 @@
 <!-- ![border-seperator](assets/borderseparator.gif) -->
 
 <!-- Project link -->
-## **📟 Projects**
+## **📟 Projects :**
 * [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=008080&left=true&vCenter=true&size=10&width=100&height=15&lines=Coming+soon+!)](https://git.io/typing-svg)
 
 
 <!-- Technologies i know -->
-
-### <div align="center"><p style="text-align:center; font-size:40px; font-weight:400px;">**Technologies**</p></div>
+## **📟 Technologies :**
+<!-- ### <div align="center"><p style="text-align:left; font-size:40px; font-weight:400px;">**Technologies**</p></div> -->
 <!-- ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div> -->
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,git,github,vscode,linux&perline=#" />
   </a>
@@ -29,13 +29,13 @@
 
 
 <!-- social media handels -->
-
+## **Social Handels :**
 <!-- Not in center -->
 <!-- [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kgaurav4_js)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Gauravkr#4214) -->
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/kgaurav4_js">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
