@@ -10,6 +10,9 @@
 ![border-seperator](assets/borderseparator.gif)
 
 
+<!-- social media handels -->
+
+
 <!-- Not in center -->
 <!-- [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kgaurav4_js)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaurav-kumar-a09a5925a)
@@ -31,9 +34,11 @@
 
 
 
+<!-- github readme stats -->
+
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=false&card_width=390" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=390" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&count_private=false&layout=compact&card_width=390" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&count_private=true&layout=compact&card_width=390" />
 </a>
