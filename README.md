@@ -23,7 +23,7 @@
 <!-- ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode,linux,tailwind&perline=#" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,git,github,vscode,linux&perline=#" />
   </a>
 </p>
 
