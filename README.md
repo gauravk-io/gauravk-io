@@ -14,7 +14,7 @@
 
 <!-- Project link -->
 ### **📟 Projects**
-* [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=000000&left=true&vCenter=true&size=10&width=100&height=15&lines=Coming+soon+!)](https://git.io/typing-svg)
+* [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=008080&left=true&vCenter=true&size=10&width=100&height=15&lines=Coming+soon+!)](https://git.io/typing-svg)
 
 
 <!-- social media handels -->
