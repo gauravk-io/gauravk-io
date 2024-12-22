@@ -8,7 +8,7 @@
 <p style="font-size:8px;" align="justify">Hi, <strong>I’m Gaurav</strong> - I,m a future software engineer with a passion for technology. I work on frontend web development, learning backend development, and actively contribute to open source. I’m always excited to explore new tech and create innovative solutions that make a difference.</p>
 
 <!-- Email -->
-### 📫 Reach me: gauravkr7265@gmail.com  **or** [my LinkTree](https://linktr.ee/kgaurav4u)
+## 📫 Reach me: gauravkr7265@gmail.com  **or** [my LinkTree](https://linktr.ee/kgaurav4u)
 
 
 
