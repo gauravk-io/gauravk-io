@@ -32,7 +32,7 @@
 
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=370" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&layout=compact&card_width=370" />
