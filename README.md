@@ -35,5 +35,5 @@
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=false&card_width=390" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&layout=compact&card_width=390" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&count_private=false&layout=compact&card_width=390" />
 </a>
