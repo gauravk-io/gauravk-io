@@ -10,7 +10,7 @@
 <!-- Email -->
 - ### 📫 Reach me: **gauravkr7265@gmail.com**
 
-![border-seperator](assets/borderseparator.gif)
+<!-- ![border-seperator](assets/borderseparator.gif) -->
 
 <!-- Project link -->
 ## **📟 Projects**
