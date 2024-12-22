@@ -13,12 +13,12 @@
 <!-- ![border-seperator](assets/borderseparator.gif) -->
 
 <!-- Project link -->
-## **📟 Projects :**
+## **Projects :**
 * [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=008080&left=true&vCenter=true&size=10&width=100&height=15&lines=Coming+soon+!)](https://git.io/typing-svg)
 
 
 <!-- Technologies i know -->
-## **📟 Technologies :**
+## **Technologies :**
 <!-- ### <div align="center"><p style="text-align:left; font-size:40px; font-weight:400px;">**Technologies**</p></div> -->
 <!-- ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div> -->
 <p align="left">
