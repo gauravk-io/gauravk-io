@@ -53,9 +53,9 @@
 <a href="#">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&count_private=true&layout=compact&card_width=390" />
 </a>
-<!-- <a href="#">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact&card_width=390&count_private=true" />
-</a> -->
+</a>
 
 
 <!-- Quotes -->
