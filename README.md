@@ -56,3 +56,9 @@
 <!-- <a href="#">
   <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact&card_width=390&count_private=true" />
 </a> -->
+
+
+<!-- Quotes -->
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
