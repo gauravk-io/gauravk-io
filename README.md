@@ -20,12 +20,12 @@
 
 
 <!-- Technologies i know -->
-### **Technologies :**
+### **Languages and Tools :**
 <!-- ### <div align="center"><p style="text-align:left; font-size:40px; font-weight:400px;">**Technologies**</p></div> -->
 <!-- ### <div align="center"><p align="center"><p style="text-align : center; font-weight:200px; font-size:24px;">**Skills&Endorsements**</p></p></div> -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,git,github,vscode,linux&perline=#" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,tailwind,git,vscode,linux&perline=#" />
   </a>
 </p>
 
