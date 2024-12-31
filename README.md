@@ -48,13 +48,13 @@
 <!-- github readme stats -->
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=350&include_all_commits=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=360&include_all_commits=true&hide_border=true" />
 </a>
 <!-- <a href="#">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&count_private=true&layout=compact&card_width=390" />
 </a> -->
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact&card_width=300&count_private=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact&card_width=310&count_private=true&hide_border=true" />
 </a>
 
 
