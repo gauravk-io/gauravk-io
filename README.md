@@ -48,7 +48,7 @@
 <!-- github readme stats -->
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=385&include_all_commits=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=340&include_all_commits=true&hide_border=true" />
 </a>
 <!-- <a href="#">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=gauravk-io&theme=aura&count_private=true&layout=compact&card_width=390" />
