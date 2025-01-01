@@ -57,6 +57,17 @@
   <img height=200 align="center" margin="5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gauravk-io&theme=aura&layout=compact&card_width=330&count_private=true&hide_border=true" />
 </a>
 
+<!-- Repository pins -->
+
+#### Top Repositories
+
+<a href="https://github.com/gauravk-io/Programming-street-150-solution">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura" />
+</a>
+<a href="https://github.com/gauravk-io/beginnerWebProjects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=beginnerWebProjects&theme=aura" />
+</a>
+
 
 <!-- Quotes -->
 
