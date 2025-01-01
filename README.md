@@ -62,10 +62,10 @@
 #### Top Repositories
 
 <a href="https://github.com/gauravk-io/Programming-street-150-solution">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura&hide_border=true" />
 </a>
 <a href="https://github.com/gauravk-io/beginnerWebProjects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=beginnerWebProjects&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=beginnerWebProjects&theme=aura&hide_border=true" />
 </a>
 
 
