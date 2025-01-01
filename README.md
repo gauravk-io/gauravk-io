@@ -47,6 +47,8 @@
 
 <!-- github readme stats -->
 
+#### **Github Stats :**
+
 <a href="#">
   <img height=200 align="center" margin="5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=370&include_all_commits=true&hide_border=true" />
 </a>
@@ -59,7 +61,7 @@
 
 <!-- Repository pins -->
 
-#### Top Repositories
+#### **Top Repositories :**
 
 <a href="https://github.com/gauravk-io/Programming-street-150-solution">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura&hide_border=true" />
