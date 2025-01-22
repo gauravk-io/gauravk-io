@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=FFD700&left=true&vCenter=true&width=900&height=80&lines=</>+Hi+there!+My+Repo+Is+Your+Repo+-+Explore+and+Collaborate)](https://git.io/typing-svg)
 
 <!-- Introduction -->
-<p style="font-size:8px;" align="justify">Hi, <strong>I’m Gaurav</strong> - I,m a future software engineer with a passion for technology. I work on frontend web development, learning backend development, and actively contribute to open source. I’m always excited to explore new tech and create innovative solutions that make a difference.</p>
+<p style="font-size:8px;" align="justify">Hi, <strong>I’m Gaurav</strong> - I,m a future <strong>software engineer</strong> with a passion for technology. I work on <strong>frontend web development, learning backend development</strong>, and actively contribute to <strong>open source</strong>. I’m always excited to explore new tech and create innovative solutions that make a difference.</p>
 
 <!-- Email -->
 ## 📫 Reach me: gauravkr7265@gmail.com  **or** [my LinkTree](https://linktr.ee/kgaurav4u)
@@ -47,6 +47,8 @@
 
 <!-- github readme stats -->
 
+#### **Github Stats :**
+
 <a href="#">
   <img height=200 align="center" margin="5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=gauravk-io&theme=aura&layout=compact&count_private=true&card_width=370&include_all_commits=true&hide_border=true" />
 </a>
@@ -59,10 +61,10 @@
 
 <!-- Repository pins -->
 
-#### Top Repositories
+#### **Top Repositories :**
 
 <a href="https://github.com/gauravk-io/Programming-street-150-solution">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura&hide_border=true" />
 </a>
 <a href="https://github.com/gauravk-io/what-i-m-learning-2025">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=what-i-m-learning-2025&theme=aura" />
