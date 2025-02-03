@@ -69,7 +69,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=Programming-street-150-solution&theme=aura&hide_border=true" />
 </a>
 <a href="https://github.com/gauravk-io/what-i-m-learning-2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=what-i-m-learning-2025&theme=aura" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravk-io&repo=what-i-m-learning-2025&theme=aura&hide_border=true" />
 </a>
 
 
