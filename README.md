@@ -18,7 +18,8 @@
 ### **Project :**
 <!-- * [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1500&color=008080&left=true&vCenter=true&size=10&width=100&height=15&lines=Coming+soon+!)](https://git.io/typing-svg) -->
 
-* [Weather App](https://gauravk-io.github.io/weatherApp/)
+* [Weather WebApp](https://gauravk-io.github.io/weatherApp/)
+* [Quote Generator WebApp](https://gauravk-io.github.io/quoteGenerator/)
 
 
 <!-- Technologies i know -->
