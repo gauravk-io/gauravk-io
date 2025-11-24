@@ -9,9 +9,9 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 
 | S.No | Name        | Description                               | Live               | Stack                      | Users |
 |------|-------------|---------------------------------------------|--------------------|-----------------------------|-------------|
-| 1    | UcetHub     | Notes and PYQ access platform for students. | [UcetHub](https://ucethub.vercel.app) | Next.js, Express, PostgreSQL, Prisma, Cloudinary |50+|
-| 2    | Tourizio    | Destination booking platform.               | [Tourizio](https://tourizio-mu.vercel.app/)     | Angular, TypeScript, Firebase, Razorpay|-|
-| 3    | AuthSystem  | Built to understand authentication deeply.  | [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|-|
+| 1    | UcetHub     | Notes and PYQ access platform for students. | [UcetHub](https://ucethub.vercel.app) | Next.js, Express, PostgreSQL, Prisma, Cloudinary |50+ (signup)|
+| 2    | Tourizio    | Destination booking platform.               | [Tourizio](https://tourizio-mu.vercel.app/)     | Angular, TypeScript, Firebase, Razorpay|100+ (visitors)|
+| 3    | AuthSystem  | Built to understand authentication deeply.  | [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|30+ (visitors)|
 | 4    | Weather App | Simple and clean weather check app.         | [WeatherApp](https://gauravk-io.github.io/weatherApp/)    | HTML, CSS, JavaScript       |-|
 
 
