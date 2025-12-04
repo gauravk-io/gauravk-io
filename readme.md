@@ -3,7 +3,6 @@
 # Hi, I'm Gaurav
 
 I build fast, simple tools that solve everyday problems. I’m drawn to modern web apps, clear UX, and interfaces that feel intentional.
-[Portfolio](https://gauravx.vercel.app)
 
 
 ## Projects
