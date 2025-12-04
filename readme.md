@@ -3,6 +3,7 @@
 # Hi, I'm Gaurav
 
 I build fast, simple tools that solve everyday problems. I’m drawn to modern web apps, clear UX, and interfaces that feel intentional.
+[Portfolio](https://gauravx.vercel.app)
 
 
 ## Projects
@@ -48,7 +49,11 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 
 ## Social
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-kumar-a09a5925a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>_<a href="https://linktr.ee/gaurav"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white"></a>_<a href="https://x.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>_<a href="mailto:gauravkr7265@gmail.com"><img src="https://img.shields.io/badge/Email-444?style=flat"></a>
+<p align="center">
+ <a href="https://www.linkedin.com/in/gaurav-kumar-a09a5925a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://linktr.ee/kgaurav4u"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat&logo=linktree&logoColor=white"></a>
+<a href="https://x.com/gauravtyt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+<a href="mailto:gauravkr7265@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://gauravx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0?style=flat&logo=internet-explorer&logoColor=white"></a>
 </p>
 
