@@ -14,6 +14,7 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 | 3    | AuthSystem  | Built to understand authentication deeply.  | [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|-|
 | 4    | Weather App | Simple and clean weather check app.         | [WeatherApp](https://gauravk-io.github.io/weatherApp/)    | HTML, CSS, JavaScript       |-|
 | 5    | YouTubeAutoLiker | A Chrome Extension that automatically likes YouTube videos. | [YouTubeAutoLiker](https://github.com/gauravk-io/youtube-auto-liker.git) (Code)| JavaScript |-|
+| 6    | Chowkidar (Bot)| A Discord bot that tracks time spent in voice channels, logs all voice activity, and generates leaderboards and detailed stats to show who’s actually active on the server. | [Chowkidar](https://github.com/gauravk-io/chowkidar-bot-adv.git) (Code)| JavaScript |-|
 
 
 
