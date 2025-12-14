@@ -13,6 +13,9 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 | 2    | Tourizio    | Destination booking platform.               | [Tourizio](https://tourizio-mu.vercel.app/)     | Angular, TypeScript, Firebase, Razorpay|300+ (visitors)|
 | 3    | AuthSystem  | Built to understand authentication deeply.  | [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|-|
 | 4    | Weather App | Simple and clean weather check app.         | [WeatherApp](https://gauravk-io.github.io/weatherApp/)    | HTML, CSS, JavaScript       |-|
+| 5    | YouTubeAutoLiker | A Chrome Extension that automatically likes YouTube videos. | [YouTubeAutoLiker](https://github.com/gauravk-io/youtube-auto-liker.git) (Code)| JavaScript |-|
+
+
 
 
 ## Achievements
