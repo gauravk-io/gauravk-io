@@ -5,16 +5,92 @@
 I build fast, simple tools that solve everyday problems. I’m drawn to modern web apps, clear UX, and interfaces that feel intentional.
 
 
-## Projects
+## Top 5 Projects
 
-| S.No | Name        | Description                               | Live               | Stack                      | Users |
-|------|-------------|---------------------------------------------|--------------------|-----------------------------|-------------|
-| 1    | UcetHub     | Notes and PYQ access platform for students. | [UcetHub](https://ucethub.vercel.app) | Next.js, Express, PostgreSQL, Prisma, Cloudinary |200+ (signup)|
-| 2    | Tourizio    | Destination booking platform.               | [Tourizio](https://tourizio-mu.vercel.app/)     | Angular, TypeScript, Firebase, Razorpay|300+ (visitors)|
-| 3    | AuthSystem  | Built to understand authentication deeply.  | [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|-|
-| 4    | Weather App | Simple and clean weather check app.         | [WeatherApp](https://gauravk-io.github.io/weatherApp/)    | HTML, CSS, JavaScript       |-|
-| 5    | YouTubeAutoLiker | A Chrome Extension that automatically likes YouTube videos. | [YouTubeAutoLiker](https://github.com/gauravk-io/youtube-auto-liker.git) (Code)| JavaScript |-|
-| 6    | Chowkidar (Bot)| A Discord bot that tracks time spent in voice channels, logs all voice activity, and generates leaderboards and stats. | [Chowkidar](https://github.com/gauravk-io/chowkidar-bot-adv.git) (Code)| JavaScript |-|
+| Name        | Description                               | Live               | Stack                      | Users |
+|-------------|---------------------------------------------|--------------------|-----------------------------|-------------|
+| UcetHub | Notes and PYQ access platform for students.| [UcetHub](https://ucethub.vercel.app)| Next.js, Express, PostgreSQL, Prisma, Cloudinary| 200+|
+| Tourizio | Destination exploring and booking platform.| [Tourizio](https://tourizio-mu.vercel.app/)| Angular, TypeScript, Firebase, Razorpay|300+ (visitors)|
+| AuthSystem | Built from scratch to understand authentication deeply.| [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|-|
+| YouTubeAutoLiker | A Chrome Extension that automatically likes YouTube videos.| [Code](https://github.com/gauravk-io/youtube-auto-liker.git)| JavaScript|-|
+| Chowkidar (Bot)| A Discord bot that tracks time spent in voice channels, logs all voice activity, and generates leaderboards and stats.| [Code](https://github.com/gauravk-io/chowkidar-bot-adv.git)| JavaScript, Discord.js, Node.js, HTML, CSS|-|
+
+
+
+
+## Remaining Projects
+
+<details>
+  <summary>Click to see all remaining projects</summary>
+
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Live</th>
+       <th>Code</th>
+      <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td>Weather App</td>
+      <td>Simple and clean weather check app.</td>
+      <td>
+        <a href="https://gauravk-io.github.io/weatherApp/">Link</a>
+      </td>
+     <td>
+        <a href="https://gauravk-io.github.io/weatherApp.git">Code</a>
+      </td>
+      <td>HTML, CSS, JavaScript, APIs</td>
+    </tr>
+   <tr>
+      <td>Quote Generator</td>
+      <td>A simple web application that generates random quotes and post directly on X.</td>
+      <td>
+        <a href="https://gauravk-io.github.io/quoteGenerator/">Link</a>
+      </td>
+     <td>
+        <a href="https://github.com/gauravk-io/quoteGenerator.git">Code</a>
+      </td>
+      <td>HTML, CSS, JavaScript, APIs</td>
+    </tr>
+   <tr>
+      <td>ToDo App</td>
+      <td>A simple and intuitive ToDo application that helps users manage their tasks efficiently.</td>
+      <td>
+        <a href="https://gauravk-io.github.io/ToDo-App/">Link</a>
+      </td>
+     <td>
+        <a href="https://github.com/gauravk-io/ToDo-App.git">Code</a>
+      </td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+   <tr>
+      <td>Clock</td>
+      <td>A simple and intuitive Clock application.</td>
+      <td>
+        <a href="https://gauravk-io.github.io/jsClock/">Link</a>
+      </td>
+     <td>
+        <a href="https://github.com/gauravk-io/jsClock.git">Code</a>
+      </td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+   <tr>
+      <td>Drum Kit</td>
+      <td>An interactive Drum Kit application that allows users to play drum sounds using keyboard keys.</td>
+      <td>
+        <a href="https://gauravk-io.github.io/drumkit/">Link</a>
+      </td>
+     <td>
+        <a href="https://gauravk-io.github.io/drumkit.git">Code</a>
+      </td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+  </table>
+
+</details>
+
+
 
 
 
