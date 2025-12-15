@@ -112,7 +112,7 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 | Database        | PostgreSQL, Prisma, MongoDB, Mongoose                 |
 | Storage         | Cloudinary                                            |
 | Deployment      | Vercel, Render, Neon                                  |
-| Tools           | Git, Postman, VS Code                                 |
+| Tools           | Git, Postman, VS Code, Linux                                 |
 
 
 
