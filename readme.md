@@ -110,8 +110,6 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 | Frontend        | React, Next.js, Angular, Tailwind CSS                |
 | Backend         | Node.js, Express, JWT, REST APIs                      |
 | Database        | PostgreSQL, Prisma, MongoDB, Mongoose                 |
-| Storage         | Cloudinary                                            |
-| Deployment      | Vercel, Render, Neon                                  |
 | Tools           | Git, Postman, VS Code, Linux                                 |
 
 
