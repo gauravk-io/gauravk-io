@@ -10,7 +10,7 @@ I build fast, simple tools that solve everyday problems. I’m drawn to modern w
 | Name        | Description                               | Live               | Stack                      | Users |
 |-------------|---------------------------------------------|--------------------|-----------------------------|-------------|
 | UcetHub | Notes and PYQ access platform for students.| [UcetHub](https://ucethub.vercel.app)| Next.js, Express, PostgreSQL, Prisma, Cloudinary| 200+|
-| Sheet Tracker | A dedicated platform to track your progress on the "Padho with Pratyush" DSA pattern sheet.[ Code](https://github.com/gauravk-io/sheetTracker.git)| [SheetTracker](https://patternsheet.vercel.app)| JavaScript, React, Supabase| 1200+|
+| Sheet Tracker | A dedicated platform to track your progress on the "Padho with Pratyush" DSA pattern sheet.[ Code](https://github.com/gauravk-io/sheetTracker.git)| [SheetTracker](https://patternsheet.vercel.app)| JavaScript, React, Supabase| 1200+ (visitors) 100+ (signup)|
 | Tourizio | Destination exploring and booking platform.| [Tourizio](https://tourizio-mu.vercel.app/)| Angular, TypeScript, Firebase, Razorpay|300+ (visitors)|
 | AuthSystem | Built from scratch to understand authentication deeply.| [AuthSystem](https://authsystem-der9.onrender.com/)| Node.js, Express, JWT, bcrypt, MongoDB, Mongoose|-|
 | YouTubeAutoLiker | A Chrome Extension that automatically likes YouTube videos.| [Code](https://github.com/gauravk-io/youtube-auto-liker.git)| JavaScript|-|
